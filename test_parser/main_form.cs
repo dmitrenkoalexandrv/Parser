@@ -126,7 +126,7 @@ namespace test_parser
             }
         }
 
-        // Load images with specific markup 2 (reserve)
+        // Load images with specific markup reserve
         public static void Load_Image1_reserve(string filename, string name, string id)
         {
             PictureBox Image1 = new PictureBox();
