@@ -1,0 +1,67 @@
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\test_parser.exe.config
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\test_parser.exe
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\test_parser.pdb
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\HtmlAgilityPack.dll
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\HtmlAgilityPack.pdb
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Debug\HtmlAgilityPack.xml
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Debug\test_parser.exe.config
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Debug\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Debug\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.GenerateResource.Cache
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Debug\test_parser.csprojResolveAssemblyReference.cache
+C:\tmp\test_parser\test_parser\bin\Debug\test_parser.exe.config
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\tmp\test_parser\test_parser\bin\Debug\test_parser.exe
+C:\tmp\test_parser\test_parser\bin\Debug\test_parser.pdb
+C:\tmp\test_parser\test_parser\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.csprojResolveAssemblyReference.cache
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+C:\tmp\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.GenerateResource.Cache
+C:\Temp\fp\test_parser\test_parser\bin\Debug\test_parser.exe.config
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\Temp\fp\test_parser\test_parser\bin\Debug\test_parser.exe
+C:\Temp\fp\test_parser\test_parser\bin\Debug\test_parser.pdb
+C:\Temp\fp\test_parser\test_parser\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\fp\test_parser\test_parser\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csprojResolveAssemblyReference.cache
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+C:\Temp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.GenerateResource.Cache
+C:\tmp\fp\test_parser\test_parser\bin\Debug\test_parser.exe.config
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\tmp\fp\test_parser\test_parser\bin\Debug\test_parser.exe
+C:\tmp\fp\test_parser\test_parser\bin\Debug\test_parser.pdb
+C:\tmp\fp\test_parser\test_parser\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\fp\test_parser\test_parser\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csprojResolveAssemblyReference.cache
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.GenerateResource.Cache
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.CoreCompileInputs.cache
+C:\tmp\fp\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.CopyComplete
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\bin\Debug\test_parser.exe.config
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\bin\Debug\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\bin\Debug\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.csprojResolveAssemblyReference.cache
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.f_main.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.Properties.Resources.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\test_parser\obj\x86\Debug\test_parser.csproj.GenerateResource.Cache

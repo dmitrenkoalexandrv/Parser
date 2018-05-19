@@ -1,0 +1,59 @@
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\test_parser.exe
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\test_parser.pdb
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\HtmlAgilityPack.dll
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\HtmlAgilityPack.pdb
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\HtmlAgilityPack.xml
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\ResolveAssemblyReference.cache
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\test_parser.f_main.resources
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\test_parser.Properties.Resources.resources
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\GenerateResource.read.1.tlog
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\GenerateResource.write.1.tlog
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\test_parser.exe
+F:\всякое разное\C#\Исходники\test_parser\test_parser\obj\x86\Release\test_parser.pdb
+F:\всякое разное\C#\Исходники\test_parser\test_parser\bin\Release\test_parser.exe.config
+C:\Users\dav\Desktop\test_parser\test_parser\bin\Release\test_parser.exe.config
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.exe
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.pdb
+C:\Users\dav\Desktop\test_parser\test_parser\bin\Release\test_parser.exe
+C:\Users\dav\Desktop\test_parser\test_parser\bin\Release\test_parser.pdb
+C:\Users\dav\Desktop\test_parser\test_parser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\dav\Desktop\test_parser\test_parser\bin\Release\HtmlAgilityPack.xml
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.csprojResolveAssemblyReference.cache
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.f_main.resources
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.Properties.Resources.resources
+C:\Users\dav\Desktop\test_parser\test_parser\obj\x86\Release\test_parser.csproj.GenerateResource.Cache
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe.config
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.exe
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.pdb
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.pdb
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\HtmlAgilityPack.xml
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csprojResolveAssemblyReference.cache
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.f_main.resources
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.Properties.Resources.resources
+C:\Users\dav\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csproj.GenerateResource.Cache
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe.config
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.exe
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.pdb
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.pdb
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\HtmlAgilityPack.xml
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csprojResolveAssemblyReference.cache
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.f_main.resources
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.Properties.Resources.resources
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csproj.GenerateResource.Cache
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\Newtonsoft.Json.dll
+C:\Users\ADmitrenko\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\Newtonsoft.Json.xml
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe.config
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.exe
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\test_parser.pdb
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\Newtonsoft.Json.dll
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\bin\Release\Newtonsoft.Json.xml
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.f_main.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.Properties.Resources.resources
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csproj.GenerateResource.Cache
+C:\Users\mda\Documents\Visual Studio 2013\Projects\test_parser\test_parser\obj\x86\Release\test_parser.csprojResolveAssemblyReference.cache
